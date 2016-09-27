@@ -2,7 +2,7 @@
 layout:     post
 title:      "微笑面对生活"
 subtitle:   "高二3班"
-date:       2012
+date:       2012-09-22
 author:     "Xueyan"
 header-img: "img/1about-bg.jpg"
 tags:
