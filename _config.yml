@@ -71,7 +71,7 @@ ga_track_id: 'UA-84827030-1'            # Format: UA-xxxxxx-xx
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "崇尚简单 喜欢纯粹 在这里记录生活 分享心得 用心体验美好 (๑>؂<๑）"
-sidebar-avatar: img/Xuey.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/Xuey.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
