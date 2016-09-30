@@ -1,0 +1,27 @@
+---
+layout:     post
+title:      "给宝宝的markdown提示"
+subtitle:   "markdown的格式"
+date:       2016-09-30
+author:     "Yuxing"
+header-img: "img/post-bg-2016.jpg"
+tags:
+    - Life
+---
+
+
+这是雪宝宝的第一个博客。
+
+> 创建于2016年9月27日，由男票星宝宝所建。
+
+*分享读书感想，快乐和忧伤。*
+
+**这是雪宝宝的第一个博客。**
+
+_创建于2016年9月27日_
+
+__分享读书感想__
+
+    git intall my heart.
+
+
